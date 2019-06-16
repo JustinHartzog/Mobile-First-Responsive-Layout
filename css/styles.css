@@ -7,6 +7,7 @@ p {
 body {
 	color: #3a3a3a;
   background: GhostWhite;
+	font-family: 'Merriweather', sans-serif;
 }
 
 footer {
@@ -130,7 +131,6 @@ footer {
 
 .footer-name {
 	float: left;
-	width: 40%;
 	font-size: 1em;
 	margin-top: 20px;
 	margin-bottom: 20px;
