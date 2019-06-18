@@ -143,6 +143,10 @@ footer {
 	margin-bottom: 20px;
 }
 
+.footer-nav a {
+	color: DimGray;
+}
+
  .clearfix::after {
    content: "";
    clear: both;
